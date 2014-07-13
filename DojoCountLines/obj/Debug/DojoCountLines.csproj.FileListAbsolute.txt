@@ -1,0 +1,10 @@
+C:\Code\Internal\DojoCountLines\DojoCountLines\bin\Debug\DojoCountLines.dll
+C:\Code\Internal\DojoCountLines\DojoCountLines\bin\Debug\DojoCountLines.pdb
+C:\Code\Internal\DojoCountLines\DojoCountLines\obj\Debug\DojoCountLines.csprojResolveAssemblyReference.cache
+C:\Code\Internal\DojoCountLines\DojoCountLines\obj\Debug\DojoCountLines.dll
+C:\Code\Internal\DojoCountLines\DojoCountLines\obj\Debug\DojoCountLines.pdb
+C:\Code\Internal\DojoCountLines - Dojo\DojoCountLines\bin\Debug\DojoCountLines.dll
+C:\Code\Internal\DojoCountLines - Dojo\DojoCountLines\bin\Debug\DojoCountLines.pdb
+C:\Code\Internal\DojoCountLines - Dojo\DojoCountLines\obj\Debug\DojoCountLines.csprojResolveAssemblyReference.cache
+C:\Code\Internal\DojoCountLines - Dojo\DojoCountLines\obj\Debug\DojoCountLines.dll
+C:\Code\Internal\DojoCountLines - Dojo\DojoCountLines\obj\Debug\DojoCountLines.pdb
